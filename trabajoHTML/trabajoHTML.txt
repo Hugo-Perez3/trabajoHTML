@@ -1,9 +1,0 @@
-trabajoHTML/
-│
-├── index.html
-├── productos.html
-├── presupuesto.html
-├── contacto.html
-│
-├── css/
-│   └── style.css
