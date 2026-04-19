@@ -1,0 +1,16 @@
+trabajoHTML/
+│
+├── index.html
+├── productos.html
+├── presupuesto.html
+├── contacto.html
+│
+├── css/
+│   └── style.css
+│
+├── img/
+│   ├── reloj1.jpg
+│   ├── reloj2.jpg
+│   ├── reloj3.jpg
+│   ├── reloj4.jpg
+│   └── logo.png
