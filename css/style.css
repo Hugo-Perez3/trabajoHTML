@@ -1,0 +1,57 @@
+body {
+margin: 0;
+font-family: Arial;
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+}
+
+header {
+background: black;
+color: gold;
+padding: 15px;
+}
+
+nav a {
+color: white;
+margin: 10px;
+text-decoration: none;
+}
+
+.activo {
+border-bottom: 2px solid gold;
+}
+
+main {
+flex: 1;
+padding: 20px;
+}
+
+section img {
+width: 100%;
+max-width: 400px;
+}
+
+.grid {
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 10px;
+}
+
+.grid img {
+width: 100%;
+}
+
+form {
+display: flex;
+flex-direction: column;
+width: 300px;
+margin: auto;
+}
+
+footer {
+background: black;
+color: white;
+text-align: center;
+padding: 10px;
+}
